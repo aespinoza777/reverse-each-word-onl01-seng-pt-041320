@@ -1,6 +1,6 @@
-def reverse_each_word(word)
+def reverse_each_word(phrase)
   statement = []
-  word.each do |word|
+  phrase.each do |word|
     statement << "Hello there, and how are you?"
   end
   statement
